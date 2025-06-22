@@ -1,0 +1,9 @@
+opencv-python==4.5.5.64
+numpy
+ultralytics
+cvzone
+xlwings
+easyocr
+torch
+paddleocr
+paddlepaddle
