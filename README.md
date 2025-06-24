@@ -81,7 +81,7 @@ Time of violation
 ### Data Storage
 
 
-![Data Storage](Output_images/excel.jpg)
+![Data Storage](Output_images/excel.png)
 
 ---
 
